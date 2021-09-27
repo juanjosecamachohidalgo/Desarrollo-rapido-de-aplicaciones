@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MementoConsoleApp\obj\Debug\MementoConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MementoConsoleApp\obj\Debug\MementoConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\bin\Debug\MementoConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\obj\Debug\MementoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\obj\Debug\MementoConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MementoConsoleApp\obj\Debug\MementoConsoleApp.pdb

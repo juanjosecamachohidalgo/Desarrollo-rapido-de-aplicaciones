@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryMethodConsoleApp.Cliente" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.ClienteContado" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ClienteContado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.ClienteCredito" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ClienteCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.ClienteTrueque" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ClienteTrueque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.Pedido" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.PedidoContado" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PedidoContado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.PedidoCredito" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PedidoCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.PedidoTrueque" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PedidoTrueque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodConsoleApp.Usuario" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

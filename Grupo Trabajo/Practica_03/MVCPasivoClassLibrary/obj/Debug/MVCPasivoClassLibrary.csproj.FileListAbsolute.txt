@@ -1,0 +1,10 @@
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\bin\Debug\MVCPasivoClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\bin\Debug\MVCPasivoClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCPasivoClassLibrary\obj\Debug\MVCPasivoClassLibrary.pdb

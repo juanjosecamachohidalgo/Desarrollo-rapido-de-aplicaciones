@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompositeConsoleApp.Empresa">
+    <Position X="2" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAIAAAEAAAAAACAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeConsoleApp.EmpresaMadre">
+    <Position X="4.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACACAAAAA=</HashCode>
+      <FileName>EmpresaMadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeConsoleApp.EmpresaSinFilial">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <InheritanceLine Type="CompositeConsoleApp.Empresa" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="2.824" />
+        <Point X="3.25" Y="4.03" />
+        <Point X="2.75" Y="4.03" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>EmpresaSinFilial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeConsoleApp.Usuario" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeConsoleApp.EmpresaStartup">
+    <Position X="7.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>EmpresaStartup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

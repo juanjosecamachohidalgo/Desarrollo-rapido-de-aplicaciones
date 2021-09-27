@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.SaludoEventArgs">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IModelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.Modelo" BaseTypeListCollapsed="true">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.Presentador">
+    <Position X="7" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAUAAAIAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Presentador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.SaludoForm" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACACAAACAAIACAgAACAAAAABAAAAACAAACAAQ=</HashCode>
+      <FileName>SaludoForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVPSupervisingWindowsFormsAp.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SaludoMVPSupervisingWindowsFormsAp.IModelo">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IModelo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SaludoMVPSupervisingWindowsFormsAp.IVista">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IVista.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="SaludoMVPSupervisingWindowsFormsAp.SaludoEventHandler">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>IModelo.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

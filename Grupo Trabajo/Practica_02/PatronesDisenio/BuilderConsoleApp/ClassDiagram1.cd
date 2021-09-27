@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuilderConsoleApp.ClienteVehiculo" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ClienteVehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.ConstructorDocumentacionVehiculo" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAEEAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ConstructorDocumentacionVehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.ConstructorDocumentacionVehiculoHtml" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstructorDocumentacionVehiculoHtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.ConstructorDocumentacionVehiculoPdf" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstructorDocumentacionVehiculoPdf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.Documentacion" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAACA=</HashCode>
+      <FileName>Documentacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.DocumentacionHtml" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>DocumentacionHtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.DocumentacionPdf" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>DocumentacionPdf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderConsoleApp.Vendedor" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

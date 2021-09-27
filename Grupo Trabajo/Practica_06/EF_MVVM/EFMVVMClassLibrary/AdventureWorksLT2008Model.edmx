@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="AdventureWorksLT2008Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Address">
+          <Key>
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="AddressID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+          <Property Name="AddressLine2" Type="nvarchar" MaxLength="60" />
+          <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="StateProvince" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CountryRegion" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="PostalCode" Type="nvarchar" MaxLength="15" Nullable="false" />
+          <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="CustomerID" />
+          </Key>
+          <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NameStyle" Type="bit" Nullable="false" />
+          <Property Name="Title" Type="nvarchar" MaxLength="8" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+          <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Suffix" Type="nvarchar" MaxLength="10" />
+          <Property Name="CompanyName" Type="nvarchar" MaxLength="128" />
+          <Property Name="SalesPerson" Type="nvarchar" MaxLength="256" />
+          <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+          <Property Name="Phone" Type="nvarchar" MaxLength="25" />
+          <Property Name="PasswordHash" Type="varchar" MaxLength="128" Nullable="false" />
+          <Property Name="PasswordSalt" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CustomerAddress">
+          <Key>
+            <PropertyRef Name="CustomerID" />
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="CustomerID" Type="int" Nullable="false" />
+          <Property Name="AddressID" Type="int" Nullable="false" />
+          <Property Name="AddressType" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_CustomerAddress_Address_AddressID">
+          <End Role="Address" Type="Self.Address" Multiplicity="1" />
+          <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Address">
+              <PropertyRef Name="AddressID" />
+            </Principal>
+            <Dependent Role="CustomerAddress">
+              <PropertyRef Name="AddressID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CustomerAddress_Customer_CustomerID">
+          <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+          <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customer">
+              <PropertyRef Name="CustomerID" />
+            </Principal>
+            <Dependent Role="CustomerAddress">
+              <PropertyRef Name="CustomerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="AdventureWorksLT2008ModelStoreContainer">
+          <EntitySet Name="Address" EntityType="Self.Address" Schema="SalesLT" store:Type="Tables" />
+          <EntitySet Name="Customer" EntityType="Self.Customer" Schema="SalesLT" store:Type="Tables" />
+          <EntitySet Name="CustomerAddress" EntityType="Self.CustomerAddress" Schema="SalesLT" store:Type="Tables" />
+          <AssociationSet Name="FK_CustomerAddress_Address_AddressID" Association="Self.FK_CustomerAddress_Address_AddressID">
+            <End Role="Address" EntitySet="Address" />
+            <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CustomerAddress_Customer_CustomerID" Association="Self.FK_CustomerAddress_Customer_CustomerID">
+            <End Role="Customer" EntitySet="Customer" />
+            <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AdventureWorksLT2008Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Address">
+          <Key>
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="AddressID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AddressLine1" Type="String" MaxLength="60" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="AddressLine2" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+          <Property Name="City" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="StateProvince" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CountryRegion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PostalCode" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="rowguid" Type="Guid" Nullable="false" />
+          <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="CustomerAddress" Relationship="Self.FK_CustomerAddress_Address_AddressID" FromRole="Address" ToRole="CustomerAddress" />
+        </EntityType>
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="CustomerID" />
+          </Key>
+          <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NameStyle" Type="Boolean" Nullable="false" />
+          <Property Name="Title" Type="String" MaxLength="8" FixedLength="false" Unicode="true" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Suffix" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="CompanyName" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Name="SalesPerson" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+          <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Phone" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="PasswordHash" Type="String" MaxLength="128" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="PasswordSalt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="rowguid" Type="Guid" Nullable="false" />
+          <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="CustomerAddress" Relationship="Self.FK_CustomerAddress_Customer_CustomerID" FromRole="Customer" ToRole="CustomerAddress" />
+        </EntityType>
+        <EntityType Name="CustomerAddress">
+          <Key>
+            <PropertyRef Name="CustomerID" />
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="CustomerID" Type="Int32" Nullable="false" />
+          <Property Name="AddressID" Type="Int32" Nullable="false" />
+          <Property Name="AddressType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="rowguid" Type="Guid" Nullable="false" />
+          <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="Address" Relationship="Self.FK_CustomerAddress_Address_AddressID" FromRole="CustomerAddress" ToRole="Address" />
+          <NavigationProperty Name="Customer" Relationship="Self.FK_CustomerAddress_Customer_CustomerID" FromRole="CustomerAddress" ToRole="Customer" />
+        </EntityType>
+        <Association Name="FK_CustomerAddress_Address_AddressID">
+          <End Role="Address" Type="Self.Address" Multiplicity="1" />
+          <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Address">
+              <PropertyRef Name="AddressID" />
+            </Principal>
+            <Dependent Role="CustomerAddress">
+              <PropertyRef Name="AddressID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CustomerAddress_Customer_CustomerID">
+          <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+          <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customer">
+              <PropertyRef Name="CustomerID" />
+            </Principal>
+            <Dependent Role="CustomerAddress">
+              <PropertyRef Name="CustomerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="AdventureWorksLT2008Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Address" EntityType="Self.Address" />
+          <EntitySet Name="Customer" EntityType="Self.Customer" />
+          <EntitySet Name="CustomerAddress" EntityType="Self.CustomerAddress" />
+          <AssociationSet Name="FK_CustomerAddress_Address_AddressID" Association="Self.FK_CustomerAddress_Address_AddressID">
+            <End Role="Address" EntitySet="Address" />
+            <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CustomerAddress_Customer_CustomerID" Association="Self.FK_CustomerAddress_Customer_CustomerID">
+            <End Role="Customer" EntitySet="Customer" />
+            <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AdventureWorksLT2008ModelStoreContainer" CdmEntityContainer="AdventureWorksLT2008Entities">
+          <EntitySetMapping Name="Address">
+            <EntityTypeMapping TypeName="AdventureWorksLT2008Model.Address">
+              <MappingFragment StoreEntitySet="Address">
+                <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+                <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+                <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+                <ScalarProperty Name="City" ColumnName="City" />
+                <ScalarProperty Name="StateProvince" ColumnName="StateProvince" />
+                <ScalarProperty Name="CountryRegion" ColumnName="CountryRegion" />
+                <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+                <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Customer">
+            <EntityTypeMapping TypeName="AdventureWorksLT2008Model.Customer">
+              <MappingFragment StoreEntitySet="Customer">
+                <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+                <ScalarProperty Name="NameStyle" ColumnName="NameStyle" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Suffix" ColumnName="Suffix" />
+                <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+                <ScalarProperty Name="SalesPerson" ColumnName="SalesPerson" />
+                <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+                <ScalarProperty Name="PasswordSalt" ColumnName="PasswordSalt" />
+                <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CustomerAddress">
+            <EntityTypeMapping TypeName="AdventureWorksLT2008Model.CustomerAddress">
+              <MappingFragment StoreEntitySet="CustomerAddress">
+                <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+                <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+                <ScalarProperty Name="AddressType" ColumnName="AddressType" />
+                <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

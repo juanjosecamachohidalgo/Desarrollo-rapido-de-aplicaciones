@@ -1,0 +1,9 @@
+﻿<Window x:Class="MVVM_Layered.UI.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+Title="Shell" Height="150" Width="200"
+MinHeight="150" MinWidth="200" FocusManager.FocusedElement="{Binding ElementName=MostrarActividadesButton}">
+    <StackPanel>
+        <Button Content="Lanzar Actividades" Name="MostrarActividadesButton" Margin="5" Click="MostrarActividadesButton_Click" />
+    </StackPanel>
+</Window>

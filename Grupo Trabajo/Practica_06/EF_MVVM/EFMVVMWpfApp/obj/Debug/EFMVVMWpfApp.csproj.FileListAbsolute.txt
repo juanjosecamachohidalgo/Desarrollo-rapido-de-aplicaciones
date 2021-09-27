@@ -1,0 +1,53 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMClassLibrary.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\Dictionary1.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\App.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\Views\Data.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp_MarkupCompile.lref
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\Views\Data.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EFMVVMClassLibrary.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\Dictionary1.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\App.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\Views\Data.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp_MarkupCompile.lref
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\Views\Data.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMWpfApp\obj\Debug\EFMVVMWpfApp.pdb

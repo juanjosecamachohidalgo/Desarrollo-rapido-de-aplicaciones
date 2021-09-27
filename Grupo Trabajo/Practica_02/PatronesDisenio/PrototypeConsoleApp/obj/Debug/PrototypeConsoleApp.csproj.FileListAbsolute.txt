@@ -1,0 +1,13 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\bin\Debug\PrototypeConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\PrototypeConsoleApp\obj\Debug\PrototypeConsoleApp.pdb

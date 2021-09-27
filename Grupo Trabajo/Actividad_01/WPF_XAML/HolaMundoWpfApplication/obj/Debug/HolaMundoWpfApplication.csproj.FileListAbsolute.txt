@@ -1,0 +1,56 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\AcercaDe.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\CambiarPalabraPaso.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\App.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\AcercaDe.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\CambiarPalabraPaso.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Datos.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ListaUsuarios.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Login.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication_MarkupCompile.lref
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Datos.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ListaUsuarios.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Login.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ColeccionUsuarios.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ColeccionUsuarios.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\bin\Debug\HolaMundoWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\AcercaDe.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\CambiarPalabraPaso.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\App.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\AcercaDe.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\CambiarPalabraPaso.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ColeccionUsuarios.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Datos.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ListaUsuarios.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Login.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication_MarkupCompile.lref
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ColeccionUsuarios.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Datos.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\ListaUsuarios.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\Login.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_01\WPF_XAML\HolaMundoWpfApplication\obj\Debug\HolaMundoWpfApplication.pdb

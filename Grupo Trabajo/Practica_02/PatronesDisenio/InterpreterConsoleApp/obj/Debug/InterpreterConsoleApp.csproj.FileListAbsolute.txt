@@ -1,0 +1,12 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\bin\Debug\InterpreterConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\InterpreterConsoleApp\obj\Debug\InterpreterConsoleApp.csprojAssemblyReference.cache

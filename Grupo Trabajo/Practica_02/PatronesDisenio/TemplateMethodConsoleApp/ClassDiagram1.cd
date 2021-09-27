@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TemplateMethodConsoleApp.Pedido">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABCAAIAAEAAACAAIAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateMethodConsoleApp.PedidoEspania">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PedidoEspania.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateMethodConsoleApp.PedidoLuxemburgo">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PedidoLuxemburgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateMethodConsoleApp.Usuario">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

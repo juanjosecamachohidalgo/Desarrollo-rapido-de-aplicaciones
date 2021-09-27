@@ -1,0 +1,22 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.dll.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EFMVVMClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\EF_MVVM\EFMVVMClassLibrary\obj\Debug\EFMVVMClassLibrary.pdb

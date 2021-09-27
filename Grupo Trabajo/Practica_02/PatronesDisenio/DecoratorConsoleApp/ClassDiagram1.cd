@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorConsoleApp.Decorador">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DecoratorConsoleApp.MarcaDecorador">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MarcaDecorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorConsoleApp.ModeloDecorador">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModeloDecorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorConsoleApp.VistaCatalogo" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>VistaCatalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorConsoleApp.VistaVehiculo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistaVehiculo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="DecoratorConsoleApp.ComponenteGraficoVehiculo" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponenteGraficoVehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

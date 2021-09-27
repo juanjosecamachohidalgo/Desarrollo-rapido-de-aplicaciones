@@ -1,0 +1,69 @@
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe.config
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.pdb
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.baml
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.g.cs
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.g.resources
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.g.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\bin\Debug\MVP_Layered.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\bin\Debug\CosteActividades.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\ActividadesView.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MVP_Layered\obj\Debug\MVP_Layered.pdb

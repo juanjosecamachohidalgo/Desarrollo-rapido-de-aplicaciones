@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludoMVPPasivoWindowsFormsApp", "SaludoMVPPasivoWindowsFormsApp\SaludoMVPPasivoWindowsFormsApp.csproj", "{48EB8E26-9D69-4DA7-BC62-C1A1CF8A5CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaMVPPasivoWindowsFormsApp", "SumaMVPPasivoWindowsFormsApp\SumaMVPPasivoWindowsFormsApp.csproj", "{B77E4676-B30A-4206-8FB0-50BCBA08128A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludoMVPSupervisingWindowsFormsAp", "SaludoMVPSupervisingWindowsFormsAp\SaludoMVPSupervisingWindowsFormsAp.csproj", "{B77FFB8C-2C5F-4470-93AB-4A7091E09EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaMVPSupervisingWindowsFormsApp", "SumaMVPSupervisingWindowsFormsApp\SumaMVPSupervisingWindowsFormsApp.csproj", "{E4FAAFC0-A093-4696-A564-DCA0619A2DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EB8E26-9D69-4DA7-BC62-C1A1CF8A5CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EB8E26-9D69-4DA7-BC62-C1A1CF8A5CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EB8E26-9D69-4DA7-BC62-C1A1CF8A5CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EB8E26-9D69-4DA7-BC62-C1A1CF8A5CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77E4676-B30A-4206-8FB0-50BCBA08128A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77E4676-B30A-4206-8FB0-50BCBA08128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77E4676-B30A-4206-8FB0-50BCBA08128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77E4676-B30A-4206-8FB0-50BCBA08128A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77FFB8C-2C5F-4470-93AB-4A7091E09EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77FFB8C-2C5F-4470-93AB-4A7091E09EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77FFB8C-2C5F-4470-93AB-4A7091E09EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77FFB8C-2C5F-4470-93AB-4A7091E09EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FAAFC0-A093-4696-A564-DCA0619A2DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FAAFC0-A093-4696-A564-DCA0619A2DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FAAFC0-A093-4696-A564-DCA0619A2DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FAAFC0-A093-4696-A564-DCA0619A2DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436C8F9A-76A7-4ED3-A3CD-A550432C7ACA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2017-dra-alumnos
+		SccProjectUniqueName0 = SaludoMVPPasivoWindowsFormsApp\\SaludoMVPPasivoWindowsFormsApp.csproj
+		SccProjectName0 = SaludoMVPPasivoWindowsFormsApp
+		SccAuxPath0 = http://150.214.150.139:8080/tfs/2017-dra-alumnos
+		SccLocalPath0 = SaludoMVPPasivoWindowsFormsApp
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = SumaMVPPasivoWindowsFormsApp\\SumaMVPPasivoWindowsFormsApp.csproj
+		SccProjectName1 = SumaMVPPasivoWindowsFormsApp
+		SccAuxPath1 = http://150.214.150.139:8080/tfs/2017-dra-alumnos
+		SccLocalPath1 = SumaMVPPasivoWindowsFormsApp
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = SaludoMVPSupervisingWindowsFormsAp\\SaludoMVPSupervisingWindowsFormsAp.csproj
+		SccProjectName2 = SaludoMVPSupervisingWindowsFormsAp
+		SccAuxPath2 = http://150.214.150.139:8080/tfs/2017-dra-alumnos
+		SccLocalPath2 = SaludoMVPSupervisingWindowsFormsAp
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = SumaMVPSupervisingWindowsFormsApp\\SumaMVPSupervisingWindowsFormsApp.csproj
+		SccProjectName3 = SumaMVPSupervisingWindowsFormsApp
+		SccAuxPath3 = http://150.214.150.139:8080/tfs/2017-dra-alumnos
+		SccLocalPath3 = SumaMVPSupervisingWindowsFormsApp
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

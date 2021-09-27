@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\DecoratorConsoleApp\obj\Debug\DecoratorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\DecoratorConsoleApp\obj\Debug\DecoratorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\bin\Debug\DecoratorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\obj\Debug\DecoratorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\obj\Debug\DecoratorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\DecoratorConsoleApp\obj\Debug\DecoratorConsoleApp.pdb

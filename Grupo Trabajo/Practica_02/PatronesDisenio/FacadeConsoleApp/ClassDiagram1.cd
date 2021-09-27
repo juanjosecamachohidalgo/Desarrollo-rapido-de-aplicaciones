@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FacadeConsoleApp.ComponenteCatalogo" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponenteCatalogo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FacadeConsoleApp.ComponenteGestionDocumento" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponenteGestionDocumento.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FacadeConsoleApp.UsuarioWebService">
+    <Position X="3.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UsuarioWebService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacadeConsoleApp.WebServiceAutoImpl" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAIIAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>WebServiceAutoImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="FacadeConsoleApp.Catalogo">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FacadeConsoleApp.GestionDocumento">
+    <Position X="3.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestionDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FacadeConsoleApp.WebServiceAuto">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebServiceAuto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

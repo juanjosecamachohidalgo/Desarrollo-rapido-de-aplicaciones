@@ -1,0 +1,6 @@
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\bin\Release\BuilderConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\bin\Release\BuilderConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\bin\Release\BuilderConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\obj\Release\BuilderConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\obj\Release\BuilderConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\BuilderConsoleApp\obj\Release\BuilderConsoleApp.pdb

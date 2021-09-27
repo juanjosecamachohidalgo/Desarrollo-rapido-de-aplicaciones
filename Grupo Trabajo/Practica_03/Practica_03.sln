@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCConsoleApplication", "MVCConsoleApplication\MVCConsoleApplication.csproj", "{BA6058BB-C2E3-40F4-97BB-4DEA80F9D4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCPasivoClassLibrary", "MVCPasivoClassLibrary\MVCPasivoClassLibrary.csproj", "{41A758E9-CE3A-4A85-B686-7F09D591A5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWindowsFormsApplication", "MVCWindowsFormsApplication\MVCWindowsFormsApplication.csproj", "{4159010D-980D-4418-8A9F-8682B2F8F705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWpfApplication", "MVCWpfApplication\MVCWpfApplication.csproj", "{7917F9D5-8160-4FB6-BF0F-484E07FD9B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6058BB-C2E3-40F4-97BB-4DEA80F9D4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6058BB-C2E3-40F4-97BB-4DEA80F9D4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6058BB-C2E3-40F4-97BB-4DEA80F9D4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6058BB-C2E3-40F4-97BB-4DEA80F9D4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A758E9-CE3A-4A85-B686-7F09D591A5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A758E9-CE3A-4A85-B686-7F09D591A5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A758E9-CE3A-4A85-B686-7F09D591A5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A758E9-CE3A-4A85-B686-7F09D591A5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4159010D-980D-4418-8A9F-8682B2F8F705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4159010D-980D-4418-8A9F-8682B2F8F705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4159010D-980D-4418-8A9F-8682B2F8F705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4159010D-980D-4418-8A9F-8682B2F8F705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7917F9D5-8160-4FB6-BF0F-484E07FD9B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7917F9D5-8160-4FB6-BF0F-484E07FD9B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7917F9D5-8160-4FB6-BF0F-484E07FD9B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7917F9D5-8160-4FB6-BF0F-484E07FD9B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2013-dra
+		SccProjectUniqueName0 = MVCPasivoClassLibrary\\MVCPasivoClassLibrary.csproj
+		SccProjectName0 = MVCPasivoClassLibrary
+		SccLocalPath0 = MVCPasivoClassLibrary
+		SccProjectUniqueName1 = MVCWindowsFormsApplication\\MVCWindowsFormsApplication.csproj
+		SccProjectName1 = MVCWindowsFormsApplication
+		SccLocalPath1 = MVCWindowsFormsApplication
+		SccProjectUniqueName2 = MVCWpfApplication\\MVCWpfApplication.csproj
+		SccProjectName2 = MVCWpfApplication
+		SccLocalPath2 = MVCWpfApplication
+		SccLocalPath3 = .
+		SccProjectUniqueName4 = MVCConsoleApplication\\MVCConsoleApplication.csproj
+		SccProjectName4 = MVCConsoleApplication
+		SccLocalPath4 = MVCConsoleApplication
+	EndGlobalSection
+EndGlobal

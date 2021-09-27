@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MaestroDetalleCodeFirstEFWpfApp.ProductoContextModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Categorias">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Productoes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar(max)" />
+    <Property Name="CategoriaId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_dbo_Productoes_dbo_Categorias_CategoriaId">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Productoes" Type="Self.Productoes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Productoes">
+        <PropertyRef Name="CategoriaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MaestroDetalleCodeFirstEFWpfAppProductoContextModelStoreContainer">
+    <EntitySet Name="Categorias" EntityType="Self.Categorias" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Productoes" EntityType="Self.Productoes" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_Productoes_dbo_Categorias_CategoriaId" Association="Self.FK_dbo_Productoes_dbo_Categorias_CategoriaId">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Productoes" EntitySet="Productoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

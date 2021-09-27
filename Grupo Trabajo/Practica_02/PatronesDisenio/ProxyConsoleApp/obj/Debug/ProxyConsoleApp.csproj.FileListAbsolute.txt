@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\ProxyConsoleApp\obj\Debug\ProxyConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\ProxyConsoleApp\obj\Debug\ProxyConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\bin\Debug\ProxyConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\obj\Debug\ProxyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\obj\Debug\ProxyConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\ProxyConsoleApp\obj\Debug\ProxyConsoleApp.pdb

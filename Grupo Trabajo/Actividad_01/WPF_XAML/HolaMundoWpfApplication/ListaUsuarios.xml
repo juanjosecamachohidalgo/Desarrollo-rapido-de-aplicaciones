@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Usuarios xmlns="">
+  <Usuario Profesion="Pintor">
+    <Nombre>Pablo</Nombre>
+    <Apellidos>Picasso</Apellidos>
+    <Edad>67</Edad>
+  </Usuario>
+  <Usuario Profesion="Actor">
+    <Nombre>Antonio</Nombre>
+    <Apellidos>Banderas</Apellidos>
+    <Edad>50</Edad>
+  </Usuario>
+  <Usuario Profesion="Cantante">
+    <Nombre>Ana</Nombre>
+    <Apellidos>Torrja</Apellidos>
+    <Edad>38</Edad>
+  </Usuario>
+  <Usuario Profesion="Pintor">
+    <Nombre>Salvador</Nombre>
+    <Apellidos>Dali</Apellidos>
+    <Edad>89</Edad>
+  </Usuario>
+  <Usuario Profesion="Cantante">
+    <Nombre>Nino</Nombre>
+    <Apellidos>Bravo</Apellidos>
+    <Edad>89</Edad>
+  </Usuario>
+  <Usuario Profesion="Cantante">
+    <Nombre>Camilo</Nombre>
+    <Apellidos>Sesto</Apellidos>
+    <Edad>67</Edad>
+  </Usuario>
+</Usuarios>

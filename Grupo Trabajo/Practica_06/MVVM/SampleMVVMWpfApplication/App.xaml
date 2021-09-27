@@ -1,0 +1,13 @@
+﻿<Application x:Class="SampleMVVMWpfApplication.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SampleMVVMWpfApplication"
+             xmlns:viewmodel="clr-namespace:SampleMVVMWpfApplication.ViewModel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <viewmodel:VMLocator x:Key="vmLocator">
+            </viewmodel:VMLocator>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,24 @@
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCPasivoClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.Vista.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCWindowsFormsApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCPasivoClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.Vista.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCWindowsFormsApplication\obj\Debug\MVCWindowsFormsApplication.pdb

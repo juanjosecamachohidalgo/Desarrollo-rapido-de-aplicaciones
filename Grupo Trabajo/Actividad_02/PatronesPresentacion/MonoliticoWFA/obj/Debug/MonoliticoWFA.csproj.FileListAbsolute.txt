@@ -1,0 +1,35 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.PrincipalForm.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.PrincipalForm.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\bin\Debug\MonoliticoWFA.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\bin\Debug\CosteActividades.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.PrincipalForm.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\MonoliticoWFA\obj\Debug\MonoliticoWFA.pdb

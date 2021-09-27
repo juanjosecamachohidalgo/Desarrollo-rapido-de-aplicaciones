@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MVVM_Layered.Business.ActividadEventArgs">
+    <Position X="9.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ActividadesModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVM_Layered.Business.ActividadesModel" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAEAEA=</HashCode>
+      <FileName>ActividadesModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MVVM_Layered.UI.ActividadesView">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActividadesView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVM_Layered.UI.MainWindow">
+    <Position X="10" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVM_Layered.App.ActualizarCommand" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAAAAAEBAAAAAAAgEAAAAAAAAA=</HashCode>
+      <FileName>ActividadesViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MVVM_Layered.App.ActividadesViewModel" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAACAARIAGAAACBBAAoAACAAAEAAAAAAAEgAA=</HashCode>
+      <FileName>ActividadesViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MVVM_Layered.App.ActividadViewModel" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAhAYAAAECAgAAAgAACAAAIAAAAAAIEAAA=</HashCode>
+      <FileName>ActividadViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MVVM_Layered.MainApplication">
+    <Position X="10.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVM_Layered.Properties.Resources">
+    <Position X="11.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVM_Layered.Properties.Settings">
+    <Position X="11.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MVVM_Layered.Business.IActividadesModel">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ActividadesModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MVVM_Layered.App.IActividadesViewModel">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActividadesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MVVM_Layered.App.IActividadViewModel">
+    <Position X="3" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActividadViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MVVM_Layered.App.Estado">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ActividadViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

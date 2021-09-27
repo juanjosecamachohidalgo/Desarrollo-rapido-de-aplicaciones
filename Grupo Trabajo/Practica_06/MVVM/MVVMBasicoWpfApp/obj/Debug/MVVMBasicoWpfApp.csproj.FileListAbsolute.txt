@@ -1,0 +1,54 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\Views\View.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp_MarkupCompile.lref
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\Views\View.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\MVVMBasicoWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\Views\View.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp_MarkupCompile.lref
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\Views\View.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\MVVMBasicoWpfApp\obj\Debug\MVVMBasicoWpfApp.pdb

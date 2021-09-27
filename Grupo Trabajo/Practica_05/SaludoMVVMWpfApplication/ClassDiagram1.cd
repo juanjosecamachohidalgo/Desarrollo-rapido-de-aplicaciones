@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SaludoMVVMWpfApplication.App">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.Command" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.HolaView" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HolaView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.HolaViewModel" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAQAIAIAAAgAAAkAAAAAAACAAgAAIAAAA=</HashCode>
+      <FileName>HolaViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.Modelo" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaludoMVVMWpfApplication.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SaludoMVVMWpfApplication.IModelo">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IModelo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="SaludoMVVMWpfApplication.CommandDelegate">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

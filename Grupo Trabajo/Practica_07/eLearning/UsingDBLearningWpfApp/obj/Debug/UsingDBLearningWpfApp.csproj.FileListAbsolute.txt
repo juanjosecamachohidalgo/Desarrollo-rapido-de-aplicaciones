@@ -1,0 +1,108 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\WebActivator.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\WebActivator.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\UsingDBLearningWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\WebActivator.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\LearningClassLibrary.Data.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Courses.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Enrollments.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Students.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\Views\Tutors.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\UsingDBLearningWpfApp\obj\Debug\UsingDBLearningWpfApp.pdb

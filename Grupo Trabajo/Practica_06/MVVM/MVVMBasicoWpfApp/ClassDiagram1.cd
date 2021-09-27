@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MVVMBasicoWpfApp.App">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Behaviors.MouseBehavior">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviors\MouseBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Models.Model">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAQAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Properties.Resources">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Services.MsgBoxService" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\MsgBoxService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Services.ServiceLocator">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAABBAAAAQAAAAIAAAAA=</HashCode>
+      <FileName>Services\ServiceLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.ViewModels.RelayCommand" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAEEAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViewModels\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.ViewModels.ViewModel">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAIAOBIQAGEAAQEAEgCAUgQACAAAEQFgAUkIAAAA=</HashCode>
+      <FileName>ViewModels\ViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.ViewModels.ViewModelBase">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAAAAgAAAAIAAAAAAEA=</HashCode>
+      <FileName>ViewModels\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MVVMBasicoWpfApp.Views.View" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\View.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="MVVMBasicoWpfApp.Services.IMsgBoxService">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IMsgBoxService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

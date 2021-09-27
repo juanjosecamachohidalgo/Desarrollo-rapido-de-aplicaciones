@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="eLearningConnectionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Duration" Type="float" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="1000" />
+    <Property Name="SubjectID" Type="int" Nullable="false" />
+    <Property Name="TutorID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Enrollments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EnrollmentDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="CourseID" Type="int" />
+    <Property Name="StudentID" Type="int" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Gender" Type="int" />
+    <Property Name="DateOfBirth" Type="smalldatetime" Nullable="false" />
+    <Property Name="RegistrationDate" Type="smalldatetime" />
+    <Property Name="LastLoginDate" Type="smalldatetime" />
+  </EntityType>
+  <EntityType Name="Subjects">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tutors">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Gender" Type="int" />
+  </EntityType>
+  <Association Name="FK_dbo_Courses_dbo_Subjects_SubjectID">
+    <End Role="Subjects" Type="Self.Subjects" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Courses" Type="Self.Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Courses">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Courses_dbo_Tutors_TutorID">
+    <End Role="Tutors" Type="Self.Tutors" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Courses" Type="Self.Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tutors">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Courses">
+        <PropertyRef Name="TutorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Enrollments_dbo_Courses_CourseID">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="0..1" />
+    <End Role="Enrollments" Type="Self.Enrollments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Enrollments">
+        <PropertyRef Name="CourseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Enrollments_dbo_Students_StudentID">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="Enrollments" Type="Self.Enrollments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Enrollments">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="eLearningConnectionModelStoreContainer">
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Enrollments" EntityType="Self.Enrollments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subjects" EntityType="Self.Subjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tutors" EntityType="Self.Tutors" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_Courses_dbo_Subjects_SubjectID" Association="Self.FK_dbo_Courses_dbo_Subjects_SubjectID">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Courses" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Courses_dbo_Tutors_TutorID" Association="Self.FK_dbo_Courses_dbo_Tutors_TutorID">
+      <End Role="Tutors" EntitySet="Tutors" />
+      <End Role="Courses" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Enrollments_dbo_Courses_CourseID" Association="Self.FK_dbo_Enrollments_dbo_Courses_CourseID">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Enrollments" EntitySet="Enrollments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Enrollments_dbo_Students_StudentID" Association="Self.FK_dbo_Enrollments_dbo_Students_StudentID">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Enrollments" EntitySet="Enrollments" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

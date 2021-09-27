@@ -1,0 +1,84 @@
+﻿<Window x:Class="eLearningWebAPIClientMVVMWpfApp.Views.Data"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:eLearningWebAPIClientMVVMWpfApp.ViewModels"
+        Title="Cursos y sus alumnos" Height="500" Width="750" ResizeMode="CanResize">
+
+    <Window.DataContext>
+        <vm:Data/>
+    </Window.DataContext>
+
+    <TabControl Margin="10">
+        <TabItem Header="Data">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="70*" />
+                    <ColumnDefinition Width="30*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50*" />
+                    <RowDefinition Height="50*" />
+                    <RowDefinition Height="20" />
+                </Grid.RowDefinitions>
+                <Expander Header="Search Filter" Grid.ColumnSpan="2" IsExpanded="True">
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <Label Content="Nombre" />
+                        <TextBox Height="23" Width="300" Text="{Binding SearchName, UpdateSourceTrigger=PropertyChanged}" />
+                        <Button Content="Buscar" Width="75" Command="{Binding SearchCommand}" />
+                        <CheckBox Content="Búsqueda instantánea" Height="16" IsChecked="{Binding InstantSearch}" />
+                    </StackPanel>
+                </Expander>
+                <ListView
+                  Grid.Row="1"
+                  ItemsSource="{Binding CoursesCollection}"
+                  IsSynchronizedWithCurrentItem="True">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Nombre" DisplayMemberBinding="{Binding Name}"/>
+                            <GridViewColumn Header="Duracion" DisplayMemberBinding="{Binding Duration}"/>
+                            <GridViewColumn Header="Descripcion" DisplayMemberBinding="{Binding Description}"/>
+                            <GridViewColumn Header="Asignatura" DisplayMemberBinding="{Binding Subject.Name}"/>
+                            <GridViewColumn Header="Tutor" DisplayMemberBinding="{Binding Tutor.FirstName}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <ListView Margin="0,10,0,0"
+                  Grid.Row="2"
+                  ItemsSource="{Binding StudentsCollection}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding FirstName}" Header="Nombre" />
+                            <GridViewColumn DisplayMemberBinding="{Binding LastName}" Header="Apellidos" />
+                            <GridViewColumn DisplayMemberBinding="{Binding Url}" Header="Email" />
+                            <GridViewColumn DisplayMemberBinding="{Binding UserName}" Header="Nombre de usuario" />
+                            <GridViewColumn DisplayMemberBinding="{Binding Password}" Header="Contraseña" />
+                            
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <StatusBar Grid.Row="3" Grid.ColumnSpan="2">
+                    <TextBlock Text="{Binding Panel1StatusBar}"/>
+                    <Separator/>
+                    <TextBlock Text="{Binding Panel2StatusBar}"/>
+                </StatusBar>
+
+                <StackPanel Grid.Column="1" Grid.Row="1" Margin="10" Grid.RowSpan="2">
+                    <Label Content="Nombre"/>
+                    <TextBox Text="{Binding CurrentCourse.Name}" />
+                    <Label Content="Duración"/>
+                    <TextBox Text="{Binding CurrentCourse.Duration}"/>
+                    <Label Content="Descripción"/>
+                    <TextBox Text="{Binding CurrentCourse.Description}" />
+
+                    <Button Content="_Add Course" Command="{Binding AddCourse}" />
+                    <Button Content="_Delete Course" Command="{Binding DeleteCourse}" />
+                    <Button Content="_Save Changes" Command="{Binding SaveChanges}" />
+                </StackPanel>
+            </Grid>
+        </TabItem>
+    </TabControl>
+
+</Window>

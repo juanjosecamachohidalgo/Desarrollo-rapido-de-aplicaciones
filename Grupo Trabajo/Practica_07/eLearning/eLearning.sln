@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningClassLibrary.Data", "LearningClassLibrary.Data\LearningClassLibrary.Data.csproj", "{E559BB65-75AC-42A2-8C71-F16664EF4352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDBLearningWpfApp", "UsingDBLearningWpfApp\UsingDBLearningWpfApp.csproj", "{A183A527-87E6-422D-9CEB-DD7032B68CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningMvcApp.Web", "LearningMvcApp.Web\LearningMvcApp.Web.csproj", "{01B89B64-55B7-46E1-B155-21A169FF5684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E559BB65-75AC-42A2-8C71-F16664EF4352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E559BB65-75AC-42A2-8C71-F16664EF4352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E559BB65-75AC-42A2-8C71-F16664EF4352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E559BB65-75AC-42A2-8C71-F16664EF4352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A183A527-87E6-422D-9CEB-DD7032B68CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A183A527-87E6-422D-9CEB-DD7032B68CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A183A527-87E6-422D-9CEB-DD7032B68CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A183A527-87E6-422D-9CEB-DD7032B68CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B89B64-55B7-46E1-B155-21A169FF5684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B89B64-55B7-46E1-B155-21A169FF5684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B89B64-55B7-46E1-B155-21A169FF5684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B89B64-55B7-46E1-B155-21A169FF5684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2013-dra
+		SccProjectUniqueName0 = UsingDBLearningWpfApp\\UsingDBLearningWpfApp.csproj
+		SccProjectName0 = UsingDBLearningWpfApp
+		SccLocalPath0 = UsingDBLearningWpfApp
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = LearningClassLibrary.Data\\LearningClassLibrary.Data.csproj
+		SccProjectName2 = LearningClassLibrary.Data
+		SccLocalPath2 = LearningClassLibrary.Data
+		SccProjectUniqueName3 = LearningMvcApp.Web\\LearningMvcApp.Web.csproj
+		SccProjectName3 = LearningMvcApp.Web
+		SccLocalPath3 = LearningMvcApp.Web
+	EndGlobalSection
+EndGlobal

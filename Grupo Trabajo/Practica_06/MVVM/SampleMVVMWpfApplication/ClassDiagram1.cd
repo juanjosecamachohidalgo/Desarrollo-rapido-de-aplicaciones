@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SampleMVVMWpfApplication.App">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.Properties.Resources" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.ViewModel.DelegateCommand" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.ViewModel.DelegateCommand&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.ViewModel.VMBase">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\VMBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.ViewModel.VMLocator">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\VMLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleMVVMWpfApplication.ViewModel.VMMain">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAACAAAAAAAAAAAAAAAAACAAAIAAAACAAAAAA=</HashCode>
+      <FileName>ViewModel\VMMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\LearningClassLibrary.Data.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningClassLibrary.Data\obj\Debug\LearningClassLibrary.Data.pdb

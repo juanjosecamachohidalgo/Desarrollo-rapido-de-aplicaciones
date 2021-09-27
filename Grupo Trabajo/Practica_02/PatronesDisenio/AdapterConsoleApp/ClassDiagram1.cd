@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdapterConsoleApp.ComponentePdf" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAIgAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentePdf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterConsoleApp.DocumentoHtml" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAEAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentoHmtl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdapterConsoleApp.DocumentoPdf" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAAAAAAAAAQCAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentoPdf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdapterConsoleApp.ServidorWeb" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ServidorWeb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterConsoleApp.DocumentoRtf" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAEAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentoRtf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="AdapterConsoleApp.Documento" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Documento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

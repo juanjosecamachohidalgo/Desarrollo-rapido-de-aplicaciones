@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProxyConsoleApp.AnimacionProxy" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAACAAAAEA=</HashCode>
+      <FileName>AnimacionProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProxyConsoleApp.Video" BaseTypeListCollapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAEAABAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Video.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProxyConsoleApp.VistaVehiculo">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>VistaVehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProxyConsoleApp.Animacion">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Animacion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

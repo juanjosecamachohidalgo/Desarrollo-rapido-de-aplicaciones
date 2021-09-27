@@ -1,0 +1,12 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\bin\Debug\IteratorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\IteratorConsoleApp\obj\Debug\IteratorConsoleApp.csprojAssemblyReference.cache

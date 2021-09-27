@@ -1,0 +1,12 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\bin\Debug\SimpleMVVMWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\bin\Debug\SimpleMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\bin\Debug\SimpleMVVMWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SimpleMVVMWpfApplication\obj\Debug\SimpleMVVMWpfApplication.pdb

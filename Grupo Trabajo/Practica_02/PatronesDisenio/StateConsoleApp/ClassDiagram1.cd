@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StateConsoleApp.EstadoPedido">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAAAAAAAAAAAAAEAAAAAAAgAAEAA=</HashCode>
+      <FileName>EstadoPedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.Pedido">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAABAQAIAAAAAAAAAAEAAAAAAAgAAEAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.PedidoEnCurso">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAgAAEAA=</HashCode>
+      <FileName>PedidoEnCurso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.PedidoEntregado">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAgAAEAA=</HashCode>
+      <FileName>PedidoEntregado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.PedidoValidado">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAgAAEAA=</HashCode>
+      <FileName>PedidoValidado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.Producto">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateConsoleApp.Usuario">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

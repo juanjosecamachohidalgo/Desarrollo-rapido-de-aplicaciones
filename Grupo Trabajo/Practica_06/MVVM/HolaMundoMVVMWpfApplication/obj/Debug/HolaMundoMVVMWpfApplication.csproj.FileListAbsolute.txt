@@ -1,0 +1,54 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\System.Windows.Interactivity.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\System.Windows.Interactivity.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaView.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaView.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication_Content.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\HolaMundoMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaView.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaView.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication_Content.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\HolaMundoMVVMWpfApplication\obj\Debug\HolaMundoMVVMWpfApplication.pdb

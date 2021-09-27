@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HolaMundoWpfApplication.AcercaDe" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AcercaDe.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.App">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.BarraEstadoDependencyProperty">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>BarraEstadoDependencyProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.CambiarPalabraPaso" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CambiarPalabraPaso.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.ColeccionUsuarios" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColeccionUsuarios.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.Datos" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Datos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.Persona" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAwBAQCAKAAAAEAAgAACAAAAAAAAQAAAAAI=</HashCode>
+      <FileName>Datos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.EdadRule">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Datos.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.ListaUsuarios" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaUsuarios.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.UsuarioConverter" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaUsuarios.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.Login" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBCCAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAgQAAAAAAAAABACAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.RangoValores">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgQIAAAACAAAAAAAQgEQAAAAAAAAAQAAABAAAAAgA=</HashCode>
+      <FileName>RangoValores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.UsuarioActivo">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UsuarioActivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.UsuarioModel">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UsuarioModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.UsuariosModel">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UsuarioModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPF.Notify.NotifyingObject" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIIEAAoAAAAEAAQAQgQBgCAAAAAAAAAAAACA=</HashCode>
+      <FileName>NotifyingObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="HolaMundoWpfApplication.Properties.Resources">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolaMundoWpfApplication.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

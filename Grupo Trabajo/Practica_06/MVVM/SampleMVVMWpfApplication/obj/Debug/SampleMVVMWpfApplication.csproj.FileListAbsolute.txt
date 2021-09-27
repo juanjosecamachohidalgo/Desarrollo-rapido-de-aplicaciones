@@ -1,0 +1,33 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication_MarkupCompile.lref
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\App.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\bin\Debug\SampleMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication_MarkupCompile.lref
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\App.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SampleMVVMWpfApplication\obj\Debug\SampleMVVMWpfApplication.pdb

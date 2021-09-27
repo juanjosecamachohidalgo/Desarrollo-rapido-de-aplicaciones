@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MaestroDetalleCodeFirstEFWpfAppProductoContextModelStoreContainer" CdmEntityContainer="ProductoModel">
+    <EntitySetMapping Name="Categorias">
+      <EntityTypeMapping TypeName="MaestroDetalleCodeFirstEFWpfApp.ProductoContextModel.Categorias">
+        <MappingFragment StoreEntitySet="Categorias">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Productoes">
+      <EntityTypeMapping TypeName="MaestroDetalleCodeFirstEFWpfApp.ProductoContextModel.Productoes">
+        <MappingFragment StoreEntitySet="Productoes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="CategoriaId" ColumnName="CategoriaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

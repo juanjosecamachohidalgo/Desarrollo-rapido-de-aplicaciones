@@ -1,0 +1,9 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EFMVVMClassLibrary.Models.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EFMVVMClassLibrary.Models.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\obj\Debug\EFMVVMClassLibrary.Models.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\obj\Debug\EFMVVMClassLibrary.Models.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EFMVVMClassLibrary.Models.dll.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_MVVM\EFMVVMClassLibrary.Models\bin\Debug\EntityFramework.SqlServer.xml

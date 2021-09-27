@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MediatorConsoleApp\obj\Debug\MediatorConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\MediatorConsoleApp\obj\Debug\MediatorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\bin\Debug\MediatorConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\obj\Debug\MediatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\obj\Debug\MediatorConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\MediatorConsoleApp\obj\Debug\MediatorConsoleApp.pdb

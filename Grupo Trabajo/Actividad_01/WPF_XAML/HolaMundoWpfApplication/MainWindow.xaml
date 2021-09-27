@@ -1,0 +1,53 @@
+﻿<Window x:Class="HolaMundoWpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:HolaMundoWpfApplication;assembly="
+        local:BarraEstadoDependencyProperty.EsAplicadaBarraEstado="true"
+        Title="Hola Mundo" Height="350" Width="525">
+    <DockPanel Width="Auto"  Height="Auto" LastChildFill="True">
+        <!-- Área del Menu superior-->
+        <Menu Width="Auto" Height="20" 
+            Background="#FFA9D1F4"
+            DockPanel.Dock="Top">
+
+
+            <!-- Menu Archivo -->
+            <MenuItem Header="Archivo">
+                <MenuItem Header="Lista Usuarios" Click="ListaUsuariosMenu_Click"/>
+                <MenuItem Header="Colección Usuarios" Click="ColeccionUsuariosMenu_Click"/>
+                <MenuItem Header="Guardar"/>
+                <Separator/>
+                <MenuItem Header="Salir" Click="SalirMenu_Click"/>
+            </MenuItem>
+
+            <!-- Menu Usuario -->
+            <MenuItem Header="Usuario">
+                <!-- <MenuItem Header="Cambiar Palabra de Paso"/> -->
+                <MenuItem Header="Cambiar Palabra de Paso" Click="CambiarPalabraDePasoUsuarioMenu_Click"/>
+                <MenuItem Header="Datos" Click="DatosUsuarioMenu_Click"/>
+            </MenuItem>
+
+            <!-- Menu Acerca de ...-->
+            <MenuItem Header="Ayuda">
+                <MenuItem Header="Acerca de ... " Click="AcercaDeUsuarioMenu_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!--Area de estado en el fondo de la ventana, se declara antes para            		despues rellenar el resto de la ventana con un Grid -->
+        <StackPanel Width="Auto" 
+            Height="31" Background="#FFCAC5C5"
+            Orientation="Horizontal" DockPanel.Dock="Bottom">
+
+            <Label Width="155" 
+              Height="23" Content="Barra de Estado ..."
+              FontFamily="Arial" FontSize="10"/>
+
+        </StackPanel>
+
+        <Grid>
+
+        </Grid>
+
+    </DockPanel>
+
+</Window>

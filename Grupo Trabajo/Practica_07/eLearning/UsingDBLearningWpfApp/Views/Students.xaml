@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:Entities="clr-namespace:LearningClassLibrary.Data.Entities;assembly=LearningClassLibrary.Data" mc:Ignorable="d" x:Class="UsingDBLearningWpfApp.Views.Students"
+        Title="Students" Height="482.089" Width="710.448" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="studentViewSource" d:DesignSource="{d:DesignInstance {x:Type Entities:Student}, CreateList=True}"/>
+        <CollectionViewSource x:Key="studentEnrollmentsViewSource" Source="{Binding Enrollments, Source={StaticResource studentViewSource}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource studentViewSource}" Margin="0,0,0,5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="113*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="studentDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="48,0,0,0" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False" HorizontalAlignment="Left" Width="588" Height="249" VerticalAlignment="Top">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn x:Name="dateOfBirthColumn" Width="SizeToHeader" Header="Date Of Birth">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding DateOfBirth, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="emailColumn" Width="SizeToHeader" Header="Email" Binding="{Binding Email}"/>
+                <DataGridTextColumn x:Name="firstNameColumn" Width="SizeToHeader" Header="First Name" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn x:Name="genderColumn" Width="SizeToHeader" Header="Gender" Binding="{Binding Gender}"/>
+                <DataGridTextColumn x:Name="idColumn" Width="SizeToHeader" Header="Id" Binding="{Binding Id}"/>
+                <DataGridTemplateColumn x:Name="lastLoginDateColumn" Width="SizeToHeader" Header="Last Login Date">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding LastLoginDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="lastNameColumn" Width="SizeToHeader" Header="Last Name" Binding="{Binding LastName}"/>
+                <DataGridTextColumn x:Name="passwordColumn" Width="SizeToHeader" Header="Password" Binding="{Binding Password}"/>
+                <DataGridTemplateColumn x:Name="registrationDateColumn" Width="SizeToHeader" Header="Registration Date">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding RegistrationDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="userNameColumn" Width="SizeToHeader" Header="User Name" Binding="{Binding UserName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="enrollmentsDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource studentEnrollmentsViewSource}}" Margin="48,254,230,-8" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn x:Name="enrollmentDateColumn" Header="Enrollment Date" Width="SizeToHeader">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding EnrollmentDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="idColumn1" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

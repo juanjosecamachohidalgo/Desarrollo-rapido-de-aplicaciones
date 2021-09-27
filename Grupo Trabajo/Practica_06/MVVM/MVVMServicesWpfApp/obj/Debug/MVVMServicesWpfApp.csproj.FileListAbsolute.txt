@@ -1,0 +1,13 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\bin\Debug\MVVMServicesWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\bin\Debug\MVVMServicesWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\bin\Debug\MVVMServicesWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\MVVMServicesWpfApp\obj\Debug\MVVMServicesWpfApp.pdb

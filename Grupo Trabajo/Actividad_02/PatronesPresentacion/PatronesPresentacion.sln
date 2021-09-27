@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosteActividades", "CosteActividades\CosteActividades.csproj", "{6BF3DECE-FEEB-40B3-8E90-30B4A29A305A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoliticoWFA", "MonoliticoWFA\MonoliticoWFA.csproj", "{32179F47-6BC4-48DC-970B-4A734F06369B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoliticoWPFApp", "MonoliticoWPFApp\MonoliticoWPFApp.csproj", "{F2D5A757-98B2-4CEC-B299-4E6F7BC78E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Layered", "MVC_Layered\MVC_Layered.csproj", "{2CAE861A-FA0E-4CA2-9815-94ED59D3B2B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVP_Layered", "MVP_Layered\MVP_Layered.csproj", "{2805D250-5D83-41A9-ACA8-6F6B68D5F373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_Layered", "MVVM_Layered\MVVM_Layered.csproj", "{64E1F3F9-97D7-41A1-A6AF-2A3537C427CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF3DECE-FEEB-40B3-8E90-30B4A29A305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF3DECE-FEEB-40B3-8E90-30B4A29A305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF3DECE-FEEB-40B3-8E90-30B4A29A305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF3DECE-FEEB-40B3-8E90-30B4A29A305A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32179F47-6BC4-48DC-970B-4A734F06369B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32179F47-6BC4-48DC-970B-4A734F06369B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32179F47-6BC4-48DC-970B-4A734F06369B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32179F47-6BC4-48DC-970B-4A734F06369B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D5A757-98B2-4CEC-B299-4E6F7BC78E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D5A757-98B2-4CEC-B299-4E6F7BC78E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D5A757-98B2-4CEC-B299-4E6F7BC78E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D5A757-98B2-4CEC-B299-4E6F7BC78E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAE861A-FA0E-4CA2-9815-94ED59D3B2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE861A-FA0E-4CA2-9815-94ED59D3B2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE861A-FA0E-4CA2-9815-94ED59D3B2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE861A-FA0E-4CA2-9815-94ED59D3B2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2805D250-5D83-41A9-ACA8-6F6B68D5F373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2805D250-5D83-41A9-ACA8-6F6B68D5F373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2805D250-5D83-41A9-ACA8-6F6B68D5F373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2805D250-5D83-41A9-ACA8-6F6B68D5F373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E1F3F9-97D7-41A1-A6AF-2A3537C427CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E1F3F9-97D7-41A1-A6AF-2A3537C427CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E1F3F9-97D7-41A1-A6AF-2A3537C427CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E1F3F9-97D7-41A1-A6AF-2A3537C427CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2013-dra
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CosteActividades\\CosteActividades.csproj
+		SccProjectName1 = CosteActividades
+		SccLocalPath1 = CosteActividades
+		SccProjectUniqueName2 = MonoliticoWFA\\MonoliticoWFA.csproj
+		SccProjectName2 = MonoliticoWFA
+		SccLocalPath2 = MonoliticoWFA
+		SccProjectUniqueName3 = MonoliticoWPFApp\\MonoliticoWPFApp.csproj
+		SccProjectName3 = MonoliticoWPFApp
+		SccLocalPath3 = MonoliticoWPFApp
+		SccProjectUniqueName4 = MVC_Layered\\MVC_Layered.csproj
+		SccProjectName4 = MVC_Layered
+		SccLocalPath4 = MVC_Layered
+		SccProjectUniqueName5 = MVP_Layered\\MVP_Layered.csproj
+		SccProjectName5 = MVP_Layered
+		SccLocalPath5 = MVP_Layered
+		SccProjectUniqueName6 = MVVM_Layered\\MVVM_Layered.csproj
+		SccProjectName6 = MVVM_Layered
+		SccLocalPath6 = MVVM_Layered
+	EndGlobalSection
+EndGlobal

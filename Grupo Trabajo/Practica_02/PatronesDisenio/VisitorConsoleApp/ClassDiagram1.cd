@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VisitorConsoleApp.Empresa">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAIACgAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorConsoleApp.EmpresaMadre">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAA=</HashCode>
+      <FileName>EmpresaMadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorConsoleApp.EmpresaSinFilial">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>EmpresaSinFilial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorConsoleApp.Usuario">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorConsoleApp.VisitanteMailingComercial" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VisitanteMailingComercial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="VisitorConsoleApp.Visitante">
+    <Position X="4" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visitante.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

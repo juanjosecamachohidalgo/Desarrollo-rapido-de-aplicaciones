@@ -1,0 +1,54 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:EFMVVMClassLibrary="clr-namespace:EFMVVMClassLibrary;assembly=EFMVVMClassLibrary" mc:Ignorable="d" x:Class="EFWpfApp.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="customerViewSource" d:DesignSource="{d:DesignInstance {x:Type EFMVVMClassLibrary:Customer}, CreateList=True}"/>
+        <CollectionViewSource x:Key="customerCustomerAddressViewSource" Source="{Binding CustomerAddress, Source={StaticResource customerViewSource}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource customerViewSource}">
+
+        <DataGrid x:Name="customerDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="55,26,62,141" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="companyNameColumn" Width="SizeToHeader" Header="Company Name" Binding="{Binding CompanyName}"/>
+                <DataGridTextColumn x:Name="customerIDColumn" Width="SizeToHeader" Header="Customer ID" Binding="{Binding CustomerID}"/>
+                <DataGridTextColumn x:Name="emailAddressColumn" Width="SizeToHeader" Header="Email Address" Binding="{Binding EmailAddress}"/>
+                <DataGridTextColumn x:Name="firstNameColumn" Width="SizeToHeader" Header="First Name" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn x:Name="lastNameColumn" Width="SizeToHeader" Header="Last Name" Binding="{Binding LastName}"/>
+                <DataGridTextColumn x:Name="middleNameColumn" Width="SizeToHeader" Header="Middle Name" Binding="{Binding MiddleName}"/>
+                <DataGridTemplateColumn x:Name="modifiedDateColumn" Width="SizeToHeader" Header="Modified Date">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridCheckBoxColumn x:Name="nameStyleColumn" Width="SizeToHeader" Header="Name Style" Binding="{Binding NameStyle}"/>
+                <DataGridTextColumn x:Name="passwordHashColumn" Width="SizeToHeader" Header="Password Hash" Binding="{Binding PasswordHash}"/>
+                <DataGridTextColumn x:Name="passwordSaltColumn" Width="SizeToHeader" Header="Password Salt" Binding="{Binding PasswordSalt}"/>
+                <DataGridTextColumn x:Name="phoneColumn" Width="SizeToHeader" Header="Phone" Binding="{Binding Phone}"/>
+                <DataGridTextColumn x:Name="rowguidColumn" Width="SizeToHeader" Header="rowguid" Binding="{Binding rowguid}"/>
+                <DataGridTextColumn x:Name="salesPersonColumn" Width="SizeToHeader" Header="Sales Person" Binding="{Binding SalesPerson}"/>
+                <DataGridTextColumn x:Name="suffixColumn" Width="SizeToHeader" Header="Suffix" Binding="{Binding Suffix}"/>
+                <DataGridTextColumn x:Name="titleColumn" Width="SizeToHeader" Header="Title" Binding="{Binding Title}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="customerAddressDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource customerCustomerAddressViewSource}}" Margin="55,192,62,30" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="addressIDColumn" Binding="{Binding AddressID}" Header="Address ID" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="addressTypeColumn" Binding="{Binding AddressType}" Header="Address Type" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="customerIDColumn1" Binding="{Binding CustomerID}" Header="Customer ID" Width="SizeToHeader"/>
+                <DataGridTemplateColumn x:Name="modifiedDateColumn1" Header="Modified Date" Width="SizeToHeader">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="rowguidColumn1" Binding="{Binding rowguid}" Header="rowguid" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

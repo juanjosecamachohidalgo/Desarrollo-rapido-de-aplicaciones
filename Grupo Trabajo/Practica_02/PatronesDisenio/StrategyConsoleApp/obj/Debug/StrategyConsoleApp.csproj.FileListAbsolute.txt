@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\StrategyConsoleApp\obj\Debug\StrategyConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\StrategyConsoleApp\obj\Debug\StrategyConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\bin\Debug\StrategyConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\obj\Debug\StrategyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\obj\Debug\StrategyConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\StrategyConsoleApp\obj\Debug\StrategyConsoleApp.pdb

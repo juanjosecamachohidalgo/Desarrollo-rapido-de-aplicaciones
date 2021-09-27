@@ -1,0 +1,10 @@
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\bin\Debug\SaludoMVPPasivoWindowsFormsApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\bin\Debug\SaludoMVPPasivoWindowsFormsApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\bin\Debug\SaludoMVPPasivoWindowsFormsApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.SaludoForm.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPPasivoWindowsFormsApp\obj\Debug\SaludoMVPPasivoWindowsFormsApp.pdb

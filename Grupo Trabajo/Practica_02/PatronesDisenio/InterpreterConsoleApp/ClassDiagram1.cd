@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InterpreterConsoleApp.Expresion">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAIEAAAAABABAAIIA=</HashCode>
+      <FileName>Expresion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterConsoleApp.OperadorBinario">
+    <Position X="0.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperadorBinario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterConsoleApp.OperadorO">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAA=</HashCode>
+      <FileName>OperadorO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterConsoleApp.OperadorY">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAA=</HashCode>
+      <FileName>OperadorY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterConsoleApp.PalabraClave">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAA=</HashCode>
+      <FileName>PalabraClave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterConsoleApp.Usuario">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

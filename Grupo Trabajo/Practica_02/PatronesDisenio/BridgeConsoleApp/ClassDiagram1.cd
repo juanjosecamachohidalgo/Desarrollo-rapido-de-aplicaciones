@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BridgeConsoleApp.FormAppletImpl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormAppletImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BridgeConsoleApp.FormHtmlImpl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormHtmlImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BridgeConsoleApp.FormularioMatriculacionEspania" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormMatriculacionEspania.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeConsoleApp.FormularioMatriculacionPortugal" Collapsed="true">
+    <Position X="1.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormMatriculacionPortugal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeConsoleApp.FormularioMatriculacion" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAABAAgACAAAAAAAAQAAAAAAAAAAQAAA=</HashCode>
+      <FileName>FormularioMatriculacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeConsoleApp.Usuario" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeConsoleApp.FormularioMatriculacionAlemania" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormMatriculacionAlemania.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeConsoleApp.FormRtfImpl" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormRtfImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BridgeConsoleApp.FormularioImpl" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormularioImpl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

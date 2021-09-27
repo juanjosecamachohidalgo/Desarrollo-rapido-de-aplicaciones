@@ -1,0 +1,13 @@
+﻿<Window x:Class="HolaMundoWpfApplication.AcercaDe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Acerca de ..." Height="170" Width="383" FontSize="18" FontStyle="Oblique">
+    <Grid >
+        <StackPanel  >
+            <Label Content="Desarrollo Rapido de Aplicaciones"  FontWeight="Bold" />
+            <Label Content="4º Curso del Grado de Ingenieria Informática " FontSize="16" FontWeight="Bold" FontStyle="Normal" />
+            <Label Content="Especialidad en Ingenieria del Software " FontSize="16" FontWeight="Bold" FontStyle="Italic" />
+            <Label Content="curso 2013-2014 " FontSize="14" HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Window>

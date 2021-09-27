@@ -1,0 +1,27 @@
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\HolaView.baml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\HolaView.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\bin\Debug\SaludoMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\HolaView.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\HolaView.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_05\SaludoMVVMWpfApplication\obj\Debug\SaludoMVVMWpfApplication.pdb

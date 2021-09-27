@@ -1,0 +1,21 @@
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-PSS\Patrones de diseño\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\bin\Debug\CosteActividades.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_02\PatronesPresentacion\CosteActividades\obj\Debug\CosteActividades.pdb

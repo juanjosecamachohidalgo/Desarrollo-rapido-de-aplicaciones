@@ -1,0 +1,11 @@
+﻿<Window x:Class="SaludoMVVMWpfApplication.HolaView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Saludo" Height="121" Width="310">
+    <StackPanel>
+        <TextBlock Text="¿Cuál es tu nombre?" />
+           <TextBox Name="nombreTextBox" Text="{Binding Path=Nombre, Mode=TwoWay}"></TextBox>
+        <Button Command="{Binding Path=HolaCommand}" Content="Saludar" Width="80"></Button>
+        <TextBlock Name="mensajeSaludoTextBlock" Text="{Binding Path=MensajeSaludo, Mode=OneWay}"></TextBlock>
+    </StackPanel>
+</Window>

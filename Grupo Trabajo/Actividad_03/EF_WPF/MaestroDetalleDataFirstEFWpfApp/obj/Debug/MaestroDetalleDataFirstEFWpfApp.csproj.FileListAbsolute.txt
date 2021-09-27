@@ -1,0 +1,37 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MainWindow.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp_MarkupCompile.lref
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MainWindow.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\MaestroDetalleDataFirstEFWpfApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp_MarkupCompile.lref
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Actividad_03\EF_WPF\MaestroDetalleDataFirstEFWpfApp\obj\Debug\MaestroDetalleDataFirstEFWpfApp.pdb

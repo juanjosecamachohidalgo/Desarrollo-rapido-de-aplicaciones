@@ -1,0 +1,9 @@
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\bin\Debug\SaludoMVPSupervisingWindowsFormsAp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\bin\Debug\SaludoMVPSupervisingWindowsFormsAp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\bin\Debug\SaludoMVPSupervisingWindowsFormsAp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.SaludoForm.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_04\SaludoMVPSupervisingWindowsFormsAp\obj\Debug\SaludoMVPSupervisingWindowsFormsAp.pdb

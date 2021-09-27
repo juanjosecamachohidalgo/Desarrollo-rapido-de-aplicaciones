@@ -1,0 +1,12 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\bin\Debug\FacadeConsoleApp.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_02\PatronesDisenio\FacadeConsoleApp\obj\Debug\FacadeConsoleApp.pdb

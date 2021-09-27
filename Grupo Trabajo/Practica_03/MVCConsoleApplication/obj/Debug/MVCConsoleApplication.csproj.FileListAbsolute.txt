@@ -1,0 +1,18 @@
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCPasivoClassLibrary.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCConsoleApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCPasivoClassLibrary.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\bin\Debug\MVCPasivoClassLibrary.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_03\MVCConsoleApplication\obj\Debug\MVCConsoleApplication.pdb

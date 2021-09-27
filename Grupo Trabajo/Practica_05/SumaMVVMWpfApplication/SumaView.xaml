@@ -1,0 +1,17 @@
+﻿<Window x:Class="SumaMVVMWpfApplication.SumaView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Operaciones" Height="206.716" Width="466.924">
+    <Grid Margin="0,0,72,0">
+
+        <TextBox Text="{Binding Num1}" HorizontalAlignment="Left" Height="23" Margin="177,24,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox Text="{Binding Num2}" HorizontalAlignment="Left" Height="23" Margin="177,97,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+
+        <TextBlock Text="{Binding Resultado}" HorizontalAlignment="Left" Margin="177,140,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="26" Width="120"/>
+        <Button Command="{Binding Path=OperationCommand}" CommandParameter="Suma" Content="Sumar" HorizontalAlignment="Left" Margin="77,65,0,0" VerticalAlignment="Top" Width="75" Height="30"/>
+        <Button Command="{Binding Path=OperationCommand}" CommandParameter="Resta" Content="Restar" HorizontalAlignment="Left" Height="30" Margin="312,65,0,0" VerticalAlignment="Top" Width="66"/>
+        <Button Command="{Binding Path=OperationCommand}" CommandParameter="Multiplica" Content="Multiplicar" HorizontalAlignment="Left" Height="30" Margin="77,111,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label" Content="Resultado" HorizontalAlignment="Left" Margin="77,140,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

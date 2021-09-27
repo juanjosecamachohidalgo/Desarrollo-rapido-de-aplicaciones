@@ -1,0 +1,26 @@
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.exe.config
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.pdb
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaView.baml
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaView.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\App.g.cs
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication_MarkupCompile.cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.g.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.Properties.Resources.resources
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.csproj.GenerateResource.Cache
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.exe
+C:\TFS\GINEBRA\2013-DRA\Prueba\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\bin\Debug\SumaMVVMWpfApplication.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaView.baml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaView.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\App.g.cs
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication_MarkupCompile.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.g.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.Properties.Resources.resources
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.csproj.GenerateResource.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_06\MVVM\SumaMVVMWpfApplication\obj\Debug\SumaMVVMWpfApplication.pdb

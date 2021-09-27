@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdventureWorksLT2008Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Name="AddressID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="StateProvince" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CountryRegion" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameStyle" Type="bit" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="8" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Suffix" Type="nvarchar" MaxLength="10" />
+    <Property Name="CompanyName" Type="nvarchar" MaxLength="128" />
+    <Property Name="SalesPerson" Type="nvarchar" MaxLength="256" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="25" />
+    <Property Name="PasswordHash" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="PasswordSalt" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CustomerAddress">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="AddressID" Type="int" Nullable="false" />
+    <Property Name="AddressType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CustomerAddress_Address_AddressID">
+    <End Role="Address" Type="Self.Address" Multiplicity="1" />
+    <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="CustomerAddress">
+        <PropertyRef Name="AddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerAddress_Customer_CustomerID">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="CustomerAddress" Type="Self.CustomerAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="CustomerAddress">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AdventureWorksLT2008ModelStoreContainer">
+    <EntitySet Name="Address" EntityType="Self.Address" Schema="SalesLT" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="SalesLT" store:Type="Tables" />
+    <EntitySet Name="CustomerAddress" EntityType="Self.CustomerAddress" Schema="SalesLT" store:Type="Tables" />
+    <AssociationSet Name="FK_CustomerAddress_Address_AddressID" Association="Self.FK_CustomerAddress_Address_AddressID">
+      <End Role="Address" EntitySet="Address" />
+      <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerAddress_Customer_CustomerID" Association="Self.FK_CustomerAddress_Customer_CustomerID">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="CustomerAddress" EntitySet="CustomerAddress" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

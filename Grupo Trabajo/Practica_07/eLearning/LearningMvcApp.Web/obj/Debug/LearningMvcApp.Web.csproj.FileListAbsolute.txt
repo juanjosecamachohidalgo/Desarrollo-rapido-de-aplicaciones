@@ -1,0 +1,121 @@
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\ApplicationInsights.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\csc.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\vbc.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\VBCSCompiler.exe
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.dll.config
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\EntityFramework.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\EntityFramework.SqlServer.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\LearningClassLibrary.Data.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Web.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.ApplicationInsights.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Newtonsoft.Json.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Net.Http.Formatting.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Web.Http.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Web.Http.WebHost.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\WebActivator.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\WebApiContrib.IoC.Ninject.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\LearningClassLibrary.Data.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\EntityFramework.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\EntityFramework.SqlServer.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Web.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.ApplicationInsights.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.pdb
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\Newtonsoft.Json.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Net.Http.Formatting.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Web.Http.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\System.Web.Http.WebHost.xml
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\es\System.Web.Http.resources.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.dll
+C:\TFS\GINEBRA\2013-DRA\DRA_2016\Grupo Trabajo\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\ApplicationInsights.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\csc.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\vbc.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningMvcApp.Web.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\EntityFramework.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningClassLibrary.Data.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Newtonsoft.Json.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Web.Http.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\WebActivator.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningClassLibrary.Data.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\LearningClassLibrary.Data.dll.config
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\EntityFramework.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.pdb
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Ninject.Web.Common.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\Newtonsoft.Json.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Web.Http.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\es\System.Web.Http.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.csprojAssemblyReference.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.csproj.CopyComplete
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.dll
+C:\Users\Zéin\Desktop\DRA\Camacho Hidalgo Juan José (jch004)\Grupo Trabajo\Practica_07\eLearning\LearningMvcApp.Web\obj\Debug\LearningMvcApp.Web.pdb
